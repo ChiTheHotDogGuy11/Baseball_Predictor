@@ -1,0 +1,32 @@
+Position
+Name
+Age
+Wins
+Losses
+Win-Loss Percentage
+Earned Run Average
+Games
+Games Started
+Games Finished
+Complete Games
+Shutout Games
+Saves
+Innings Pitched
+Hits
+Runs
+Earned Runs
+Home Runs
+Walks
+Intentional Walks
+Strikeouts
+Hit By Pitches
+Balks
+Wild Pitches
+Batters Faced
+Earned Run Average +
+Walks + Hits per Inning Pitched
+Hits per 9 innings
+Home Runs per 9 innings
+walks per 9 innings
+Strikeouts per 9 innings
+Strikeout per Walk Ratio

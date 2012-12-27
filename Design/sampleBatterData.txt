@@ -1,0 +1,27 @@
+Position
+Name
+Age
+Games
+Plate Appearances
+At Bats
+Runs
+Hits
+Doubles
+Tripes
+Home Runs
+Runs Batted In
+Stolen Bases
+Caught Stealing
+Walks
+Strikeouts
+Batting Average
+On Base Percentage
+Slugging
+On base plus slugging
+Adjusted OPS
+Total Bases
+Ground into Double Plays
+Hit by Pitches
+Sacrifice Hits
+Sacrifice Flies
+Intentional Walks
